@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #f9fafb;
+    color: #111827;
+    min-height: 100vh;
+  }
+}
+
+/* Print styles for manifests and labels */
+@media print {
+  body {
+    background-color: #ffffff;
+  }
+  .no-print {
+    display: none !important;
+  }
+  @page {
+    margin: 1cm;
+  }
+}

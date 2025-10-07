@@ -1,0 +1,5 @@
+This is a placeholder for icon-192.png. 
+To create actual icons, use an online tool or image editor to create:
+- icon-192.png (192x192 pixels)
+- icon-512.png (512x512 pixels)
+For now, we'll create SVG placeholders.
